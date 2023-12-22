@@ -43,24 +43,14 @@ function Footer() {
                 <p className="footer-title">Contact</p>
                 <ul>
                   <li>
-                    <Link to="#" > Sopruse pst 145, Taillin</Link>
+                    <Link to="#" >502 W Osborne St, Sandusky, 44870, OH, USA</Link>
                   </li>
                   <li>
                     <Link to="#" >+372 255 7222</Link>
                   </li>
                 </ul>
               </div>
-              <div className="col-md-3">
-                <p className="footer-title">Social Media</p>
-                <ul>
-                  <li>
-                    <a target="_blank" rel="noreferrer" href="https://twitter.com/" > Twitter</a>
-                  </li>
-                  <li>
-                    <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/"> Linkedin</a>
-                  </li>
-                </ul>
-              </div>
+            
             </div>
           </div>
         </div>
