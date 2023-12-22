@@ -46,7 +46,7 @@ function Footer() {
                     <Link to="#" >502 W Osborne St, Sandusky, 44870, OH, USA</Link>
                   </li>
                   <li>
-                    <Link to="#" >+372 255 7222</Link>
+                    <Link to="#" >+1 240 342 3998</Link>
                   </li>
                 </ul>
               </div>
